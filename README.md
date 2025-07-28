@@ -26,8 +26,8 @@ Integrating TRACE-defined motif arrays with methylation dynamics, we demonstrate
 
 - Script head with series number is pipeline for specific analysis follows the order in the TRACE paper.
 
-  Specifically, the `bash script` and `python script` is for processing data and corresponding `R scripts` is used for downstream analysis, statistics and plotting.
+  Specifically, the `bash script` is for processing data and corresponding `R scripts` is used for downstream analysis, statistics and plotting.
 
 - Published HT-SELEX data was processed using the Inomotif package with modified Python code, as detailed in the directory: Inomotif_modified
   
-- Scripts in the StandaloneScript folder was called by pipelines.
+- Scripts in the Script_pipeline folder was called by pipelines.
