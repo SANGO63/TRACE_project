@@ -2,7 +2,7 @@
 
 **:writing_hand:Author**: Shan Liu
 
-**:email:Email**: 3shanliu3@gmail.com@gmail.com
+**:email:Email**: 3shanliu3@gmail.com
 
 Copyright (c) 2025 YenLab@SKLEH. All rights reserved.
 
